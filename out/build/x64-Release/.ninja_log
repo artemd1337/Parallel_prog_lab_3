@@ -1,0 +1,21 @@
+# ninja log v5
+1	400	692734617	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+401	969	692734617	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	452	692734773	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+453	886	692734773	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	501	692735140	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+502	1028	692735140	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	453	692735346	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+454	994	692735346	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	919	692911744	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+921	1867	692911744	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+1	570	692911845	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+571	999	692911845	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+1	439	692911998	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+440	854	692911998	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+1	581	692912299	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+583	1025	692912299	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	458	692912444	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+459	893	692912444	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
+0	432	692912722	Parallel_prog_lab_3/CMakeFiles/Parallel_prog_lab_3.dir/Parallel_prog_lab_3.cpp.obj	3482679993b4ec5d
+433	887	692912722	Parallel_prog_lab_3/Parallel_prog_lab_3.exe	2d763e464e19e7d5
